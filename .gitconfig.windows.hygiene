@@ -1,0 +1,6 @@
+# Windows filename hygiene
+core.protectNTFS=true
+core.quotepath=false
+
+# Line endings discipline (choose one)
+core.autocrlf=false
